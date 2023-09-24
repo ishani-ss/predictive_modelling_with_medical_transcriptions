@@ -1,0 +1,2 @@
+# predictive_modelling_with_medical_transcriptions
+A repository containing data exploration and subsequent predictive modelling of medical transcriptions

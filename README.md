@@ -1,2 +1,3 @@
-# predictive_modelling_with_medical_transcriptions
-A repository containing data exploration and subsequent predictive modelling of medical transcriptions
+# Predictive Modelling with Medical Transcripts
+
+AIM: To explore a medical transcription dataset and explore ways to apply predictive modelling to text data within this dataset. 
